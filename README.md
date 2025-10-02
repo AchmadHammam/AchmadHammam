@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AchmadHammam
-Fresh graduate who is 22 years old. Aims to be a software engineer in the future. Have an interest in computer-related fields
+Fullstack Devloper
+
+I can use Javascript, PHP, and python
 
 <!---
 AchmadHammam/AchmadHammam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
