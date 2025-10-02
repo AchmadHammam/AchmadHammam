@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @AchmadHammam
-Fullstack Devloper
+# Hey! I'm Achmad Hammam 👨‍💻
 
-I can use Javascript, PHP, and python
+🔹 Fullstack Developer  
+🔹 Passionate about crafting digital solutions  
+🔹 Skilled in JavaScript | PHP | Python  
+
+✨ I enjoy solving problems, learning new stacks, and contributing to impactful projects.  
+Let's build something awesome together 🚀
+
 
 <!---
 AchmadHammam/AchmadHammam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
